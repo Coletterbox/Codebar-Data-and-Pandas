@@ -1,7 +1,7 @@
 # Codebar: Data and Pandas
 
 ## Notes:
-\
+
 data science venn diagram\
 Python, Python libraries etc. (Pandas, NumPy)\
 JupyterLab\
@@ -19,4 +19,4 @@ read pandas.read_csv documentation\
 Who are the vendors?\
 How many rides per VendorID?\
 \
-map names\
+map names
